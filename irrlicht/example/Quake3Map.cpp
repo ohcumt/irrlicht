@@ -9,6 +9,9 @@
 #include <irrlicht.h>
 #include <iostream>
 
+
+
+
 using namespace irr;
 
 int main() 
