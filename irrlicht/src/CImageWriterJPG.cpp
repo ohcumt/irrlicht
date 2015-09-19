@@ -20,7 +20,7 @@ extern "C"
 	#include <jerror.h>
 #else
 	#include "jpeglib/jpeglib.h"
-	#include "jpeglib/jerror.h"
+	#include "../jpeglib/jerror.h"
 #endif
 }
 

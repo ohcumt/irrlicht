@@ -41,7 +41,7 @@
 			<Tool
 				Name="VCCLCompilerTool"
 				Optimization="0"
-				AdditionalIncludeDirectories="F:\program\irrlicht\irrlicht\irrlicht\include"
+				AdditionalIncludeDirectories="F:\program\irrlicht\irrlicht\irrlicht\include;F:\program\irrlicht\irrlicht\irrlicht"
 				PreprocessorDefinitions="WIN32;_DEBUG;_CONSOLE"
 				MinimalRebuild="true"
 				BasicRuntimeChecks="3"
@@ -207,7 +207,7 @@
 			>
 		</File>
 		<File
-			RelativePath=".\BuiltInFont.h"
+			RelativePath=".\src\BuiltInFont.h"
 			>
 		</File>
 		<File
@@ -227,287 +227,287 @@
 			>
 		</File>
 		<File
-			RelativePath=".\C3DSMeshFileLoader.cpp"
+			RelativePath=".\src\C3DSMeshFileLoader.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\C3DSMeshFileLoader.h"
+			RelativePath=".\src\C3DSMeshFileLoader.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CAnimatedMeshHalfLife.cpp"
+			RelativePath=".\src\CAnimatedMeshHalfLife.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CAnimatedMeshHalfLife.h"
+			RelativePath=".\src\CAnimatedMeshHalfLife.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CAnimatedMeshMD2.cpp"
+			RelativePath=".\src\CAnimatedMeshMD2.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CAnimatedMeshMD2.h"
+			RelativePath=".\src\CAnimatedMeshMD2.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CAnimatedMeshMD3.cpp"
+			RelativePath=".\src\CAnimatedMeshMD3.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CAnimatedMeshMD3.h"
+			RelativePath=".\src\CAnimatedMeshMD3.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CAnimatedMeshSceneNode.cpp"
+			RelativePath=".\src\CAnimatedMeshSceneNode.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CAnimatedMeshSceneNode.h"
+			RelativePath=".\src\CAnimatedMeshSceneNode.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CAttributeImpl.h"
+			RelativePath=".\src\CAttributeImpl.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CAttributes.cpp"
+			RelativePath=".\src\CAttributes.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CAttributes.h"
+			RelativePath=".\src\CAttributes.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CB3DMeshFileLoader.cpp"
+			RelativePath=".\src\CB3DMeshFileLoader.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CB3DMeshFileLoader.h"
+			RelativePath=".\src\CB3DMeshFileLoader.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CBillboardSceneNode.cpp"
+			RelativePath=".\src\CBillboardSceneNode.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CBillboardSceneNode.h"
+			RelativePath=".\src\CBillboardSceneNode.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CBlit.h"
+			RelativePath=".\src\CBlit.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CBoneSceneNode.cpp"
+			RelativePath=".\src\CBoneSceneNode.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CBoneSceneNode.h"
+			RelativePath=".\src\CBoneSceneNode.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CBSPMeshFileLoader.cpp"
+			RelativePath=".\src\CBSPMeshFileLoader.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CBSPMeshFileLoader.h"
+			RelativePath=".\src\CBSPMeshFileLoader.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CBurningShader_Raster_Reference.cpp"
+			RelativePath=".\src\CBurningShader_Raster_Reference.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CCameraSceneNode.cpp"
+			RelativePath=".\src\CCameraSceneNode.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CCameraSceneNode.h"
+			RelativePath=".\src\CCameraSceneNode.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CCgMaterialRenderer.cpp"
+			RelativePath=".\src\CCgMaterialRenderer.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CCgMaterialRenderer.h"
+			RelativePath=".\src\CCgMaterialRenderer.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CColladaFileLoader.cpp"
+			RelativePath=".\src\CColladaFileLoader.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CColladaFileLoader.h"
+			RelativePath=".\src\CColladaFileLoader.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CColladaMeshWriter.cpp"
+			RelativePath=".\src\CColladaMeshWriter.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CColladaMeshWriter.h"
+			RelativePath=".\src\CColladaMeshWriter.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CColorConverter.cpp"
+			RelativePath=".\src\CColorConverter.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CColorConverter.h"
+			RelativePath=".\src\CColorConverter.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CCSMLoader.cpp"
+			RelativePath=".\src\CCSMLoader.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CCSMLoader.h"
+			RelativePath=".\src\CCSMLoader.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CCubeSceneNode.cpp"
+			RelativePath=".\src\CCubeSceneNode.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CCubeSceneNode.h"
+			RelativePath=".\src\CCubeSceneNode.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CD3D8Driver.cpp"
+			RelativePath=".\src\CD3D8Driver.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CD3D8Driver.h"
+			RelativePath=".\src\CD3D8Driver.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CD3D8MaterialRenderer.h"
+			RelativePath=".\src\CD3D8MaterialRenderer.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CD3D8NormalMapRenderer.cpp"
+			RelativePath=".\src\CD3D8NormalMapRenderer.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CD3D8NormalMapRenderer.h"
+			RelativePath=".\src\CD3D8NormalMapRenderer.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CD3D8ParallaxMapRenderer.cpp"
+			RelativePath=".\src\CD3D8ParallaxMapRenderer.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CD3D8ParallaxMapRenderer.h"
+			RelativePath=".\src\CD3D8ParallaxMapRenderer.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CD3D8ShaderMaterialRenderer.cpp"
+			RelativePath=".\src\CD3D8ShaderMaterialRenderer.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CD3D8ShaderMaterialRenderer.h"
+			RelativePath=".\src\CD3D8ShaderMaterialRenderer.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CD3D8Texture.cpp"
+			RelativePath=".\src\CD3D8Texture.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CD3D8Texture.h"
+			RelativePath=".\src\CD3D8Texture.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CD3D9CgMaterialRenderer.cpp"
+			RelativePath=".\src\CD3D9CgMaterialRenderer.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CD3D9CgMaterialRenderer.h"
+			RelativePath=".\src\CD3D9CgMaterialRenderer.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CD3D9Driver.cpp"
+			RelativePath=".\src\CD3D9Driver.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CD3D9Driver.h"
+			RelativePath=".\src\CD3D9Driver.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CD3D9HLSLMaterialRenderer.cpp"
+			RelativePath=".\src\CD3D9HLSLMaterialRenderer.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CD3D9HLSLMaterialRenderer.h"
+			RelativePath=".\src\CD3D9HLSLMaterialRenderer.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CD3D9MaterialRenderer.h"
+			RelativePath=".\src\CD3D9MaterialRenderer.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CD3D9NormalMapRenderer.cpp"
+			RelativePath=".\src\CD3D9NormalMapRenderer.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CD3D9NormalMapRenderer.h"
+			RelativePath=".\src\CD3D9NormalMapRenderer.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CD3D9ParallaxMapRenderer.cpp"
+			RelativePath=".\src\CD3D9ParallaxMapRenderer.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CD3D9ParallaxMapRenderer.h"
+			RelativePath=".\src\CD3D9ParallaxMapRenderer.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CD3D9ShaderMaterialRenderer.cpp"
+			RelativePath=".\src\CD3D9ShaderMaterialRenderer.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CD3D9ShaderMaterialRenderer.h"
+			RelativePath=".\src\CD3D9ShaderMaterialRenderer.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CD3D9Texture.cpp"
+			RelativePath=".\src\CD3D9Texture.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CD3D9Texture.h"
+			RelativePath=".\src\CD3D9Texture.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CDefaultGUIElementFactory.cpp"
+			RelativePath=".\src\CDefaultGUIElementFactory.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CDefaultGUIElementFactory.h"
+			RelativePath=".\src\CDefaultGUIElementFactory.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CDefaultSceneNodeAnimatorFactory.cpp"
+			RelativePath=".\src\CDefaultSceneNodeAnimatorFactory.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CDefaultSceneNodeAnimatorFactory.h"
+			RelativePath=".\src\CDefaultSceneNodeAnimatorFactory.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CDefaultSceneNodeFactory.cpp"
+			RelativePath=".\src\CDefaultSceneNodeFactory.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CDefaultSceneNodeFactory.h"
+			RelativePath=".\src\CDefaultSceneNodeFactory.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CDepthBuffer.cpp"
+			RelativePath=".\src\CDepthBuffer.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CDepthBuffer.h"
+			RelativePath=".\src\CDepthBuffer.h"
 			>
 		</File>
 		<File
@@ -523,19 +523,19 @@
 			>
 		</File>
 		<File
-			RelativePath=".\CDMFLoader.cpp"
+			RelativePath=".\src\CDMFLoader.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CDMFLoader.h"
+			RelativePath=".\src\CDMFLoader.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CDummyTransformationSceneNode.cpp"
+			RelativePath=".\src\CDummyTransformationSceneNode.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CDummyTransformationSceneNode.h"
+			RelativePath=".\src\CDummyTransformationSceneNode.h"
 			>
 		</File>
 		<File
@@ -543,11 +543,11 @@
 			>
 		</File>
 		<File
-			RelativePath=".\CEmptySceneNode.cpp"
+			RelativePath=".\src\CEmptySceneNode.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CEmptySceneNode.h"
+			RelativePath=".\src\CEmptySceneNode.h"
 			>
 		</File>
 		<File
@@ -555,395 +555,395 @@
 			>
 		</File>
 		<File
-			RelativePath=".\CFileList.cpp"
+			RelativePath=".\src\CFileList.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CFileList.h"
+			RelativePath=".\src\CFileList.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CFileSystem.cpp"
+			RelativePath=".\src\CFileSystem.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CFileSystem.h"
+			RelativePath=".\src\CFileSystem.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CFPSCounter.cpp"
+			RelativePath=".\src\CFPSCounter.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CFPSCounter.h"
+			RelativePath=".\src\CFPSCounter.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CGeometryCreator.cpp"
+			RelativePath=".\src\CGeometryCreator.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CGeometryCreator.h"
+			RelativePath=".\src\CGeometryCreator.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUIButton.cpp"
+			RelativePath=".\src\CGUIButton.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUIButton.h"
+			RelativePath=".\src\CGUIButton.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUICheckBox.cpp"
+			RelativePath=".\src\CGUICheckBox.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUICheckBox.h"
+			RelativePath=".\src\CGUICheckBox.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUIColorSelectDialog.cpp"
+			RelativePath=".\src\CGUIColorSelectDialog.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUIColorSelectDialog.h"
+			RelativePath=".\src\CGUIColorSelectDialog.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUIComboBox.cpp"
+			RelativePath=".\src\CGUIComboBox.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUIComboBox.h"
+			RelativePath=".\src\CGUIComboBox.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUIContextMenu.cpp"
+			RelativePath=".\src\CGUIContextMenu.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUIContextMenu.h"
+			RelativePath=".\src\CGUIContextMenu.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUIEditBox.cpp"
+			RelativePath=".\src\CGUIEditBox.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUIEditBox.h"
+			RelativePath=".\src\CGUIEditBox.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUIEnvironment.cpp"
+			RelativePath=".\src\CGUIEnvironment.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUIEnvironment.h"
+			RelativePath=".\src\CGUIEnvironment.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUIFileOpenDialog.cpp"
+			RelativePath=".\src\CGUIFileOpenDialog.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUIFileOpenDialog.h"
+			RelativePath=".\src\CGUIFileOpenDialog.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUIFont.cpp"
+			RelativePath=".\src\CGUIFont.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUIFont.h"
+			RelativePath=".\src\CGUIFont.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUIImage.cpp"
+			RelativePath=".\src\CGUIImage.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUIImage.h"
+			RelativePath=".\src\CGUIImage.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUIImageList.cpp"
+			RelativePath=".\src\CGUIImageList.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUIImageList.h"
+			RelativePath=".\src\CGUIImageList.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUIInOutFader.cpp"
+			RelativePath=".\src\CGUIInOutFader.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUIInOutFader.h"
+			RelativePath=".\src\CGUIInOutFader.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUIListBox.cpp"
+			RelativePath=".\src\CGUIListBox.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUIListBox.h"
+			RelativePath=".\src\CGUIListBox.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUIMenu.cpp"
+			RelativePath=".\src\CGUIMenu.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUIMenu.h"
+			RelativePath=".\src\CGUIMenu.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUIMeshViewer.cpp"
+			RelativePath=".\src\CGUIMeshViewer.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUIMeshViewer.h"
+			RelativePath=".\src\CGUIMeshViewer.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUIMessageBox.cpp"
+			RelativePath=".\src\CGUIMessageBox.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUIMessageBox.h"
+			RelativePath=".\src\CGUIMessageBox.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUIModalScreen.cpp"
+			RelativePath=".\src\CGUIModalScreen.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUIModalScreen.h"
+			RelativePath=".\src\CGUIModalScreen.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUIScrollBar.cpp"
+			RelativePath=".\src\CGUIScrollBar.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUIScrollBar.h"
+			RelativePath=".\src\CGUIScrollBar.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUISkin.cpp"
+			RelativePath=".\src\CGUISkin.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUISkin.h"
+			RelativePath=".\src\CGUISkin.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUISpinBox.cpp"
+			RelativePath=".\src\CGUISpinBox.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUISpinBox.h"
+			RelativePath=".\src\CGUISpinBox.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUISpriteBank.cpp"
+			RelativePath=".\src\CGUISpriteBank.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUISpriteBank.h"
+			RelativePath=".\src\CGUISpriteBank.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUIStaticText.cpp"
+			RelativePath=".\src\CGUIStaticText.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUIStaticText.h"
+			RelativePath=".\src\CGUIStaticText.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUITabControl.cpp"
+			RelativePath=".\src\CGUITabControl.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUITabControl.h"
+			RelativePath=".\src\CGUITabControl.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUITable.cpp"
+			RelativePath=".\src\CGUITable.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUITable.h"
+			RelativePath=".\src\CGUITable.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUIToolBar.cpp"
+			RelativePath=".\src\CGUIToolBar.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUIToolBar.h"
+			RelativePath=".\src\CGUIToolBar.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUITreeView.cpp"
+			RelativePath=".\src\CGUITreeView.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUITreeView.h"
+			RelativePath=".\src\CGUITreeView.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUIWindow.cpp"
+			RelativePath=".\src\CGUIWindow.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CGUIWindow.h"
+			RelativePath=".\src\CGUIWindow.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CImage.cpp"
+			RelativePath=".\src\CImage.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CImage.h"
+			RelativePath=".\src\CImage.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CImageLoaderBMP.cpp"
+			RelativePath=".\src\CImageLoaderBMP.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CImageLoaderBMP.h"
+			RelativePath=".\src\CImageLoaderBMP.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CImageLoaderDDS.cpp"
+			RelativePath=".\src\CImageLoaderDDS.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CImageLoaderDDS.h"
+			RelativePath=".\src\CImageLoaderDDS.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CImageLoaderJPG.cpp"
+			RelativePath=".\src\CImageLoaderJPG.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CImageLoaderJPG.h"
+			RelativePath=".\src\CImageLoaderJPG.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CImageLoaderPCX.cpp"
+			RelativePath=".\src\CImageLoaderPCX.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CImageLoaderPCX.h"
+			RelativePath=".\src\CImageLoaderPCX.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CImageLoaderPNG.cpp"
+			RelativePath=".\src\CImageLoaderPNG.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CImageLoaderPNG.h"
+			RelativePath=".\src\CImageLoaderPNG.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CImageLoaderPPM.cpp"
+			RelativePath=".\src\CImageLoaderPPM.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CImageLoaderPPM.h"
+			RelativePath=".\src\CImageLoaderPPM.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CImageLoaderPSD.cpp"
+			RelativePath=".\src\CImageLoaderPSD.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CImageLoaderPSD.h"
+			RelativePath=".\src\CImageLoaderPSD.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CImageLoaderRGB.cpp"
+			RelativePath=".\src\CImageLoaderRGB.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CImageLoaderRGB.h"
+			RelativePath=".\src\CImageLoaderRGB.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CImageLoaderTGA.cpp"
+			RelativePath=".\src\CImageLoaderTGA.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CImageLoaderTGA.h"
+			RelativePath=".\src\CImageLoaderTGA.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CImageLoaderWAL.cpp"
+			RelativePath=".\src\CImageLoaderWAL.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CImageLoaderWAL.h"
+			RelativePath=".\src\CImageLoaderWAL.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CImageWriterBMP.cpp"
+			RelativePath=".\src\CImageWriterBMP.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CImageWriterBMP.h"
+			RelativePath=".\src\CImageWriterBMP.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CImageWriterJPG.cpp"
+			RelativePath=".\src\CImageWriterJPG.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CImageWriterJPG.h"
+			RelativePath=".\src\CImageWriterJPG.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CImageWriterPCX.cpp"
+			RelativePath=".\src\CImageWriterPCX.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CImageWriterPCX.h"
+			RelativePath=".\src\CImageWriterPCX.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CImageWriterPNG.cpp"
+			RelativePath=".\src\CImageWriterPNG.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CImageWriterPNG.h"
+			RelativePath=".\src\CImageWriterPNG.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CImageWriterPPM.cpp"
+			RelativePath=".\src\CImageWriterPPM.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CImageWriterPPM.h"
+			RelativePath=".\src\CImageWriterPPM.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CImageWriterPSD.cpp"
+			RelativePath=".\src\CImageWriterPSD.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CImageWriterPSD.h"
+			RelativePath=".\src\CImageWriterPSD.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CImageWriterTGA.cpp"
+			RelativePath=".\src\CImageWriterTGA.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CImageWriterTGA.h"
+			RelativePath=".\src\CImageWriterTGA.h"
 			>
 		</File>
 		<File
@@ -951,27 +951,27 @@
 			>
 		</File>
 		<File
-			RelativePath=".\CIrrDeviceConsole.cpp"
+			RelativePath=".\src\CIrrDeviceConsole.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CIrrDeviceConsole.h"
+			RelativePath=".\src\CIrrDeviceConsole.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CIrrDeviceFB.cpp"
+			RelativePath=".\src\CIrrDeviceFB.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CIrrDeviceFB.h"
+			RelativePath=".\src\CIrrDeviceFB.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CIrrDeviceLinux.cpp"
+			RelativePath=".\src\CIrrDeviceLinux.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CIrrDeviceLinux.h"
+			RelativePath=".\src\CIrrDeviceLinux.h"
 			>
 		</File>
 		<File
@@ -979,115 +979,115 @@
 			>
 		</File>
 		<File
-			RelativePath=".\CIrrDeviceSDL.cpp"
+			RelativePath=".\src\CIrrDeviceSDL.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CIrrDeviceSDL.h"
+			RelativePath=".\src\CIrrDeviceSDL.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CIrrDeviceStub.cpp"
+			RelativePath=".\src\CIrrDeviceStub.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CIrrDeviceStub.h"
+			RelativePath=".\src\CIrrDeviceStub.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CIrrDeviceWin32.cpp"
+			RelativePath=".\src\CIrrDeviceWin32.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CIrrDeviceWin32.h"
+			RelativePath=".\src\CIrrDeviceWin32.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CIrrDeviceWinCE.cpp"
+			RelativePath=".\src\CIrrDeviceWinCE.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CIrrDeviceWinCE.h"
+			RelativePath=".\src\CIrrDeviceWinCE.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CIrrMeshFileLoader.cpp"
+			RelativePath=".\src\CIrrMeshFileLoader.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CIrrMeshFileLoader.h"
+			RelativePath=".\src\CIrrMeshFileLoader.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CIrrMeshWriter.cpp"
+			RelativePath=".\src\CIrrMeshWriter.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CIrrMeshWriter.h"
+			RelativePath=".\src\CIrrMeshWriter.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CLightSceneNode.cpp"
+			RelativePath=".\src\CLightSceneNode.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CLightSceneNode.h"
+			RelativePath=".\src\CLightSceneNode.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CLimitReadFile.cpp"
+			RelativePath=".\src\CLimitReadFile.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CLimitReadFile.h"
+			RelativePath=".\src\CLimitReadFile.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CLMTSMeshFileLoader.cpp"
+			RelativePath=".\src\CLMTSMeshFileLoader.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CLMTSMeshFileLoader.h"
+			RelativePath=".\src\CLMTSMeshFileLoader.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CLogger.cpp"
+			RelativePath=".\src\CLogger.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CLogger.h"
+			RelativePath=".\src\CLogger.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CLWOMeshFileLoader.cpp"
+			RelativePath=".\src\CLWOMeshFileLoader.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CLWOMeshFileLoader.h"
+			RelativePath=".\src\CLWOMeshFileLoader.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CMD2MeshFileLoader.cpp"
+			RelativePath=".\src\CMD2MeshFileLoader.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CMD2MeshFileLoader.h"
+			RelativePath=".\src\CMD2MeshFileLoader.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CMD3MeshFileLoader.cpp"
+			RelativePath=".\src\CMD3MeshFileLoader.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CMD3MeshFileLoader.h"
+			RelativePath=".\src\CMD3MeshFileLoader.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CMemoryFile.cpp"
+			RelativePath=".\src\CMemoryFile.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CMemoryFile.h"
+			RelativePath=".\src\CMemoryFile.h"
 			>
 		</File>
 		<File
@@ -1095,127 +1095,127 @@
 			>
 		</File>
 		<File
-			RelativePath=".\CMeshCache.cpp"
+			RelativePath=".\src\CMeshCache.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CMeshCache.h"
+			RelativePath=".\src\CMeshCache.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CMeshManipulator.cpp"
+			RelativePath=".\src\CMeshManipulator.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CMeshManipulator.h"
+			RelativePath=".\src\CMeshManipulator.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CMeshSceneNode.cpp"
+			RelativePath=".\src\CMeshSceneNode.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CMeshSceneNode.h"
+			RelativePath=".\src\CMeshSceneNode.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CMetaTriangleSelector.cpp"
+			RelativePath=".\src\CMetaTriangleSelector.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CMetaTriangleSelector.h"
+			RelativePath=".\src\CMetaTriangleSelector.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CMountPointReader.cpp"
+			RelativePath=".\src\CMountPointReader.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CMountPointReader.h"
+			RelativePath=".\src\CMountPointReader.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CMS3DMeshFileLoader.cpp"
+			RelativePath=".\src\CMS3DMeshFileLoader.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CMS3DMeshFileLoader.h"
+			RelativePath=".\src\CMS3DMeshFileLoader.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CMY3DHelper.h"
+			RelativePath=".\src\CMY3DHelper.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CMY3DMeshFileLoader.cpp"
+			RelativePath=".\src\CMY3DMeshFileLoader.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CMY3DMeshFileLoader.h"
+			RelativePath=".\src\CMY3DMeshFileLoader.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CNPKReader.cpp"
+			RelativePath=".\src\CNPKReader.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CNPKReader.h"
+			RelativePath=".\src\CNPKReader.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CNullDriver.cpp"
+			RelativePath=".\src\CNullDriver.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CNullDriver.h"
+			RelativePath=".\src\CNullDriver.h"
 			>
 		</File>
 		<File
-			RelativePath=".\COBJMeshFileLoader.cpp"
+			RelativePath=".\src\COBJMeshFileLoader.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\COBJMeshFileLoader.h"
+			RelativePath=".\src\COBJMeshFileLoader.h"
 			>
 		</File>
 		<File
-			RelativePath=".\COBJMeshWriter.cpp"
+			RelativePath=".\src\COBJMeshWriter.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\COBJMeshWriter.h"
+			RelativePath=".\src\COBJMeshWriter.h"
 			>
 		</File>
 		<File
-			RelativePath=".\COCTLoader.cpp"
+			RelativePath=".\src\COCTLoader.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\COCTLoader.h"
+			RelativePath=".\src\COCTLoader.h"
 			>
 		</File>
 		<File
-			RelativePath=".\COctreeSceneNode.cpp"
+			RelativePath=".\src\COctreeSceneNode.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\COctreeSceneNode.h"
+			RelativePath=".\src\COctreeSceneNode.h"
 			>
 		</File>
 		<File
-			RelativePath=".\COctreeTriangleSelector.cpp"
+			RelativePath=".\src\COctreeTriangleSelector.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\COctreeTriangleSelector.h"
+			RelativePath=".\src\COctreeTriangleSelector.h"
 			>
 		</File>
 		<File
-			RelativePath=".\COgreMeshFileLoader.cpp"
+			RelativePath=".\src\COgreMeshFileLoader.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\COgreMeshFileLoader.h"
+			RelativePath=".\src\COgreMeshFileLoader.h"
 			>
 		</File>
 		<File
@@ -1223,71 +1223,71 @@
 			>
 		</File>
 		<File
-			RelativePath=".\COpenGLCgMaterialRenderer.cpp"
+			RelativePath=".\src\COpenGLCgMaterialRenderer.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\COpenGLCgMaterialRenderer.h"
+			RelativePath=".\src\COpenGLCgMaterialRenderer.h"
 			>
 		</File>
 		<File
-			RelativePath=".\COpenGLDriver.cpp"
+			RelativePath=".\src\COpenGLDriver.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\COpenGLDriver.h"
+			RelativePath=".\src\COpenGLDriver.h"
 			>
 		</File>
 		<File
-			RelativePath=".\COpenGLExtensionHandler.cpp"
+			RelativePath=".\src\COpenGLExtensionHandler.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\COpenGLExtensionHandler.h"
+			RelativePath=".\src\COpenGLExtensionHandler.h"
 			>
 		</File>
 		<File
-			RelativePath=".\COpenGLMaterialRenderer.h"
+			RelativePath=".\src\COpenGLMaterialRenderer.h"
 			>
 		</File>
 		<File
-			RelativePath=".\COpenGLNormalMapRenderer.cpp"
+			RelativePath=".\src\COpenGLNormalMapRenderer.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\COpenGLNormalMapRenderer.h"
+			RelativePath=".\src\COpenGLNormalMapRenderer.h"
 			>
 		</File>
 		<File
-			RelativePath=".\COpenGLParallaxMapRenderer.cpp"
+			RelativePath=".\src\COpenGLParallaxMapRenderer.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\COpenGLParallaxMapRenderer.h"
+			RelativePath=".\src\COpenGLParallaxMapRenderer.h"
 			>
 		</File>
 		<File
-			RelativePath=".\COpenGLShaderMaterialRenderer.cpp"
+			RelativePath=".\src\COpenGLShaderMaterialRenderer.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\COpenGLShaderMaterialRenderer.h"
+			RelativePath=".\src\COpenGLShaderMaterialRenderer.h"
 			>
 		</File>
 		<File
-			RelativePath=".\COpenGLSLMaterialRenderer.cpp"
+			RelativePath=".\src\COpenGLSLMaterialRenderer.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\COpenGLSLMaterialRenderer.h"
+			RelativePath=".\src\COpenGLSLMaterialRenderer.h"
 			>
 		</File>
 		<File
-			RelativePath=".\COpenGLTexture.cpp"
+			RelativePath=".\src\COpenGLTexture.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\COpenGLTexture.h"
+			RelativePath=".\src\COpenGLTexture.h"
 			>
 		</File>
 		<File
@@ -1295,155 +1295,155 @@
 			>
 		</File>
 		<File
-			RelativePath=".\COSOperator.cpp"
+			RelativePath=".\src\COSOperator.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\COSOperator.h"
+			RelativePath=".\src\COSOperator.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CPakReader.cpp"
+			RelativePath=".\src\CPakReader.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CPakReader.h"
+			RelativePath=".\src\CPakReader.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CParticleAnimatedMeshSceneNodeEmitter.cpp"
+			RelativePath=".\src\CParticleAnimatedMeshSceneNodeEmitter.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CParticleAnimatedMeshSceneNodeEmitter.h"
+			RelativePath=".\src\CParticleAnimatedMeshSceneNodeEmitter.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CParticleAttractionAffector.cpp"
+			RelativePath=".\src\CParticleAttractionAffector.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CParticleAttractionAffector.h"
+			RelativePath=".\src\CParticleAttractionAffector.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CParticleBoxEmitter.cpp"
+			RelativePath=".\src\CParticleBoxEmitter.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CParticleBoxEmitter.h"
+			RelativePath=".\src\CParticleBoxEmitter.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CParticleCylinderEmitter.cpp"
+			RelativePath=".\src\CParticleCylinderEmitter.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CParticleCylinderEmitter.h"
+			RelativePath=".\src\CParticleCylinderEmitter.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CParticleFadeOutAffector.cpp"
+			RelativePath=".\src\CParticleFadeOutAffector.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CParticleFadeOutAffector.h"
+			RelativePath=".\src\CParticleFadeOutAffector.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CParticleGravityAffector.cpp"
+			RelativePath=".\src\CParticleGravityAffector.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CParticleGravityAffector.h"
+			RelativePath=".\src\CParticleGravityAffector.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CParticleMeshEmitter.cpp"
+			RelativePath=".\src\CParticleMeshEmitter.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CParticleMeshEmitter.h"
+			RelativePath=".\src\CParticleMeshEmitter.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CParticlePointEmitter.cpp"
+			RelativePath=".\src\CParticlePointEmitter.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CParticlePointEmitter.h"
+			RelativePath=".\src\CParticlePointEmitter.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CParticleRingEmitter.cpp"
+			RelativePath=".\src\CParticleRingEmitter.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CParticleRingEmitter.h"
+			RelativePath=".\src\CParticleRingEmitter.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CParticleRotationAffector.cpp"
+			RelativePath=".\src\CParticleRotationAffector.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CParticleRotationAffector.h"
+			RelativePath=".\src\CParticleRotationAffector.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CParticleScaleAffector.cpp"
+			RelativePath=".\src\CParticleScaleAffector.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CParticleScaleAffector.h"
+			RelativePath=".\src\CParticleScaleAffector.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CParticleSphereEmitter.cpp"
+			RelativePath=".\src\CParticleSphereEmitter.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CParticleSphereEmitter.h"
+			RelativePath=".\src\CParticleSphereEmitter.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CParticleSystemSceneNode.cpp"
+			RelativePath=".\src\CParticleSystemSceneNode.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CParticleSystemSceneNode.h"
+			RelativePath=".\src\CParticleSystemSceneNode.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CPLYMeshFileLoader.cpp"
+			RelativePath=".\src\CPLYMeshFileLoader.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CPLYMeshFileLoader.h"
+			RelativePath=".\src\CPLYMeshFileLoader.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CPLYMeshWriter.cpp"
+			RelativePath=".\src\CPLYMeshWriter.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CPLYMeshWriter.h"
+			RelativePath=".\src\CPLYMeshWriter.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CQ3LevelMesh.cpp"
+			RelativePath=".\src\CQ3LevelMesh.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CQ3LevelMesh.h"
+			RelativePath=".\src\CQ3LevelMesh.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CQuake3ShaderSceneNode.cpp"
+			RelativePath=".\src\CQuake3ShaderSceneNode.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CQuake3ShaderSceneNode.h"
+			RelativePath=".\src\CQuake3ShaderSceneNode.h"
 			>
 		</File>
 		<File
@@ -1459,383 +1459,383 @@
 			>
 		</File>
 		<File
-			RelativePath=".\CReadFile.cpp"
+			RelativePath=".\src\CReadFile.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CReadFile.h"
+			RelativePath=".\src\CReadFile.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CSceneCollisionManager.cpp"
+			RelativePath=".\src\CSceneCollisionManager.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CSceneCollisionManager.h"
+			RelativePath=".\src\CSceneCollisionManager.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CSceneLoaderIrr.cpp"
+			RelativePath=".\src\CSceneLoaderIrr.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CSceneLoaderIrr.h"
+			RelativePath=".\src\CSceneLoaderIrr.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CSceneManager.cpp"
+			RelativePath=".\src\CSceneManager.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CSceneManager.h"
+			RelativePath=".\src\CSceneManager.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CSceneNodeAnimatorCameraFPS.cpp"
+			RelativePath=".\src\CSceneNodeAnimatorCameraFPS.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CSceneNodeAnimatorCameraFPS.h"
+			RelativePath=".\src\CSceneNodeAnimatorCameraFPS.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CSceneNodeAnimatorCameraMaya.cpp"
+			RelativePath=".\src\CSceneNodeAnimatorCameraMaya.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CSceneNodeAnimatorCameraMaya.h"
+			RelativePath=".\src\CSceneNodeAnimatorCameraMaya.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CSceneNodeAnimatorCollisionResponse.cpp"
+			RelativePath=".\src\CSceneNodeAnimatorCollisionResponse.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CSceneNodeAnimatorCollisionResponse.h"
+			RelativePath=".\src\CSceneNodeAnimatorCollisionResponse.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CSceneNodeAnimatorDelete.cpp"
+			RelativePath=".\src\CSceneNodeAnimatorDelete.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CSceneNodeAnimatorDelete.h"
+			RelativePath=".\src\CSceneNodeAnimatorDelete.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CSceneNodeAnimatorFlyCircle.cpp"
+			RelativePath=".\src\CSceneNodeAnimatorFlyCircle.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CSceneNodeAnimatorFlyCircle.h"
+			RelativePath=".\src\CSceneNodeAnimatorFlyCircle.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CSceneNodeAnimatorFlyStraight.cpp"
+			RelativePath=".\src\CSceneNodeAnimatorFlyStraight.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CSceneNodeAnimatorFlyStraight.h"
+			RelativePath=".\src\CSceneNodeAnimatorFlyStraight.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CSceneNodeAnimatorFollowSpline.cpp"
+			RelativePath=".\src\CSceneNodeAnimatorFollowSpline.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CSceneNodeAnimatorFollowSpline.h"
+			RelativePath=".\src\CSceneNodeAnimatorFollowSpline.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CSceneNodeAnimatorRotation.cpp"
+			RelativePath=".\src\CSceneNodeAnimatorRotation.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CSceneNodeAnimatorRotation.h"
+			RelativePath=".\src\CSceneNodeAnimatorRotation.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CSceneNodeAnimatorTexture.cpp"
+			RelativePath=".\src\CSceneNodeAnimatorTexture.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CSceneNodeAnimatorTexture.h"
+			RelativePath=".\src\CSceneNodeAnimatorTexture.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CShadowVolumeSceneNode.cpp"
+			RelativePath=".\src\CShadowVolumeSceneNode.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CShadowVolumeSceneNode.h"
+			RelativePath=".\src\CShadowVolumeSceneNode.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CSkinnedMesh.cpp"
+			RelativePath=".\src\CSkinnedMesh.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CSkinnedMesh.h"
+			RelativePath=".\src\CSkinnedMesh.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CSkyBoxSceneNode.cpp"
+			RelativePath=".\src\CSkyBoxSceneNode.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CSkyBoxSceneNode.h"
+			RelativePath=".\src\CSkyBoxSceneNode.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CSkyDomeSceneNode.cpp"
+			RelativePath=".\src\CSkyDomeSceneNode.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CSkyDomeSceneNode.h"
+			RelativePath=".\src\CSkyDomeSceneNode.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CSMFMeshFileLoader.cpp"
+			RelativePath=".\src\CSMFMeshFileLoader.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CSMFMeshFileLoader.h"
+			RelativePath=".\src\CSMFMeshFileLoader.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CSoftware2MaterialRenderer.h"
+			RelativePath=".\src\CSoftware2MaterialRenderer.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CSoftwareDriver.cpp"
+			RelativePath=".\src\CSoftwareDriver.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CSoftwareDriver.h"
+			RelativePath=".\src\CSoftwareDriver.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CSoftwareDriver2.cpp"
+			RelativePath=".\src\CSoftwareDriver2.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CSoftwareDriver2.h"
+			RelativePath=".\src\CSoftwareDriver2.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CSoftwareTexture.cpp"
+			RelativePath=".\src\CSoftwareTexture.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CSoftwareTexture.h"
+			RelativePath=".\src\CSoftwareTexture.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CSoftwareTexture2.cpp"
+			RelativePath=".\src\CSoftwareTexture2.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CSoftwareTexture2.h"
+			RelativePath=".\src\CSoftwareTexture2.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CSphereSceneNode.cpp"
+			RelativePath=".\src\CSphereSceneNode.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CSphereSceneNode.h"
+			RelativePath=".\src\CSphereSceneNode.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CSTLMeshFileLoader.cpp"
+			RelativePath=".\src\CSTLMeshFileLoader.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CSTLMeshFileLoader.h"
+			RelativePath=".\src\CSTLMeshFileLoader.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CSTLMeshWriter.cpp"
+			RelativePath=".\src\CSTLMeshWriter.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CSTLMeshWriter.h"
+			RelativePath=".\src\CSTLMeshWriter.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CTarReader.cpp"
+			RelativePath=".\src\CTarReader.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CTarReader.h"
+			RelativePath=".\src\CTarReader.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CTerrainSceneNode.cpp"
+			RelativePath=".\src\CTerrainSceneNode.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CTerrainSceneNode.h"
+			RelativePath=".\src\CTerrainSceneNode.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CTerrainTriangleSelector.cpp"
+			RelativePath=".\src\CTerrainTriangleSelector.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CTerrainTriangleSelector.h"
+			RelativePath=".\src\CTerrainTriangleSelector.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CTextSceneNode.cpp"
+			RelativePath=".\src\CTextSceneNode.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CTextSceneNode.h"
+			RelativePath=".\src\CTextSceneNode.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CTimer.h"
+			RelativePath=".\src\CTimer.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CTRFlat.cpp"
+			RelativePath=".\src\CTRFlat.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CTRFlatWire.cpp"
+			RelativePath=".\src\CTRFlatWire.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CTRGouraud.cpp"
+			RelativePath=".\src\CTRGouraud.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CTRGouraud2.cpp"
+			RelativePath=".\src\CTRGouraud2.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CTRGouraudAlpha2.cpp"
+			RelativePath=".\src\CTRGouraudAlpha2.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CTRGouraudAlphaNoZ2.cpp"
+			RelativePath=".\src\CTRGouraudAlphaNoZ2.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CTRGouraudWire.cpp"
+			RelativePath=".\src\CTRGouraudWire.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CTriangleBBSelector.cpp"
+			RelativePath=".\src\CTriangleBBSelector.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CTriangleBBSelector.h"
+			RelativePath=".\src\CTriangleBBSelector.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CTriangleSelector.cpp"
+			RelativePath=".\src\CTriangleSelector.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CTriangleSelector.h"
+			RelativePath=".\src\CTriangleSelector.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CTRNormalMap.cpp"
+			RelativePath=".\src\CTRNormalMap.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CTRStencilShadow.cpp"
+			RelativePath=".\src\CTRStencilShadow.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CTRTextureBlend.cpp"
+			RelativePath=".\src\CTRTextureBlend.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CTRTextureDetailMap2.cpp"
+			RelativePath=".\src\CTRTextureDetailMap2.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CTRTextureFlat.cpp"
+			RelativePath=".\src\CTRTextureFlat.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CTRTextureFlatWire.cpp"
+			RelativePath=".\src\CTRTextureFlatWire.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CTRTextureGouraud.cpp"
+			RelativePath=".\src\CTRTextureGouraud.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CTRTextureGouraud.h"
+			RelativePath=".\src\CTRTextureGouraud.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CTRTextureGouraud2.cpp"
+			RelativePath=".\src\CTRTextureGouraud2.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CTRTextureGouraudAdd.cpp"
+			RelativePath=".\src\CTRTextureGouraudAdd.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CTRTextureGouraudAdd2.cpp"
+			RelativePath=".\src\CTRTextureGouraudAdd2.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CTRTextureGouraudAddNoZ2.cpp"
+			RelativePath=".\src\CTRTextureGouraudAddNoZ2.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CTRTextureGouraudAlpha.cpp"
+			RelativePath=".\src\CTRTextureGouraudAlpha.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CTRTextureGouraudAlphaNoZ.cpp"
+			RelativePath=".\src\CTRTextureGouraudAlphaNoZ.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CTRTextureGouraudNoZ.cpp"
+			RelativePath=".\src\CTRTextureGouraudNoZ.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CTRTextureGouraudNoZ2.cpp"
+			RelativePath=".\src\CTRTextureGouraudNoZ2.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CTRTextureGouraudVertexAlpha2.cpp"
+			RelativePath=".\src\CTRTextureGouraudVertexAlpha2.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CTRTextureGouraudWire.cpp"
+			RelativePath=".\src\CTRTextureGouraudWire.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CTRTextureLightMap2_Add.cpp"
+			RelativePath=".\src\CTRTextureLightMap2_Add.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CTRTextureLightMap2_M1.cpp"
+			RelativePath=".\src\CTRTextureLightMap2_M1.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CTRTextureLightMap2_M2.cpp"
+			RelativePath=".\src\CTRTextureLightMap2_M2.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CTRTextureLightMap2_M4.cpp"
+			RelativePath=".\src\CTRTextureLightMap2_M4.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CTRTextureLightMapGouraud2_M4.cpp"
+			RelativePath=".\src\CTRTextureLightMapGouraud2_M4.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CTRTextureWire2.cpp"
+			RelativePath=".\src\CTRTextureWire2.cpp"
 			>
 		</File>
 		<File
@@ -1843,87 +1843,87 @@
 			>
 		</File>
 		<File
-			RelativePath=".\CVideoModeList.cpp"
+			RelativePath=".\src\CVideoModeList.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CVideoModeList.h"
+			RelativePath=".\src\CVideoModeList.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CVolumeLightSceneNode.cpp"
+			RelativePath=".\src\CVolumeLightSceneNode.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CVolumeLightSceneNode.h"
+			RelativePath=".\src\CVolumeLightSceneNode.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CWADReader.cpp"
+			RelativePath=".\src\CWADReader.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CWADReader.h"
+			RelativePath=".\src\CWADReader.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CWaterSurfaceSceneNode.cpp"
+			RelativePath=".\src\CWaterSurfaceSceneNode.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CWaterSurfaceSceneNode.h"
+			RelativePath=".\src\CWaterSurfaceSceneNode.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CWriteFile.cpp"
+			RelativePath=".\src\CWriteFile.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CWriteFile.h"
+			RelativePath=".\src\CWriteFile.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CXMeshFileLoader.cpp"
+			RelativePath=".\src\CXMeshFileLoader.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CXMeshFileLoader.h"
+			RelativePath=".\src\CXMeshFileLoader.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CXMLReader.cpp"
+			RelativePath=".\src\CXMLReader.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CXMLReader.h"
+			RelativePath=".\src\CXMLReader.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CXMLReaderImpl.h"
+			RelativePath=".\src\CXMLReaderImpl.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CXMLWriter.cpp"
+			RelativePath=".\src\CXMLWriter.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CXMLWriter.h"
+			RelativePath=".\src\CXMLWriter.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CZBuffer.cpp"
+			RelativePath=".\src\CZBuffer.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CZBuffer.h"
+			RelativePath=".\src\CZBuffer.h"
 			>
 		</File>
 		<File
-			RelativePath=".\CZipReader.cpp"
+			RelativePath=".\src\CZipReader.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\CZipReader.h"
+			RelativePath=".\src\CZipReader.h"
 			>
 		</File>
 		<File
@@ -1943,7 +1943,7 @@
 			>
 		</File>
 		<File
-			RelativePath=".\dmfsupport.h"
+			RelativePath=".\src\dmfsupport.h"
 			>
 		</File>
 		<File
@@ -2039,11 +2039,11 @@
 			>
 		</File>
 		<File
-			RelativePath=".\glext.h"
+			RelativePath=".\src\glext.h"
 			>
 		</File>
 		<File
-			RelativePath=".\glxext.h"
+			RelativePath=".\src\glxext.h"
 			>
 		</File>
 		<File
@@ -2068,6 +2068,10 @@
 		</File>
 		<File
 			RelativePath=".\include\heapsort.h"
+			>
+		</File>
+		<File
+			RelativePath=".\example\helloWorld.cpp"
 			>
 		</File>
 		<File
@@ -2099,7 +2103,7 @@
 			>
 		</File>
 		<File
-			RelativePath=".\IAttribute.h"
+			RelativePath=".\src\IAttribute.h"
 			>
 		</File>
 		<File
@@ -2123,11 +2127,11 @@
 			>
 		</File>
 		<File
-			RelativePath=".\IBurningShader.cpp"
+			RelativePath=".\src\IBurningShader.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\IBurningShader.h"
+			RelativePath=".\src\IBurningShader.h"
 			>
 		</File>
 		<File
@@ -2143,7 +2147,7 @@
 			>
 		</File>
 		<File
-			RelativePath=".\IDepthBuffer.h"
+			RelativePath=".\src\IDepthBuffer.h"
 			>
 		</File>
 		<File
@@ -2295,7 +2299,7 @@
 			>
 		</File>
 		<File
-			RelativePath=".\IImagePresenter.h"
+			RelativePath=".\src\IImagePresenter.h"
 			>
 		</File>
 		<File
@@ -2479,7 +2483,7 @@
 			>
 		</File>
 		<File
-			RelativePath=".\Irrlicht.cpp"
+			RelativePath=".\src\Irrlicht.cpp"
 			>
 		</File>
 		<File
@@ -2519,7 +2523,7 @@
 			>
 		</File>
 		<File
-			RelativePath=".\irrXML.cpp"
+			RelativePath=".\src\irrXML.cpp"
 			>
 		</File>
 		<File
@@ -2563,7 +2567,7 @@
 			>
 		</File>
 		<File
-			RelativePath=".\ISceneNodeAnimatorFinishing.h"
+			RelativePath=".\src\ISceneNodeAnimatorFinishing.h"
 			>
 		</File>
 		<File
@@ -2603,7 +2607,7 @@
 			>
 		</File>
 		<File
-			RelativePath=".\ITriangleRenderer.h"
+			RelativePath=".\src\ITriangleRenderer.h"
 			>
 		</File>
 		<File
@@ -2639,7 +2643,7 @@
 			>
 		</File>
 		<File
-			RelativePath=".\IZBuffer.h"
+			RelativePath=".\src\IZBuffer.h"
 			>
 		</File>
 		<File
@@ -2883,27 +2887,19 @@
 			>
 		</File>
 		<File
-			RelativePath=".\main.cpp"
-			>
-		</File>
-		<File
-			RelativePath=".\Makefile"
-			>
-		</File>
-		<File
 			RelativePath=".\include\matrix4.h"
 			>
 		</File>
 		<File
-			RelativePath=".\Octree.h"
+			RelativePath=".\src\Octree.h"
 			>
 		</File>
 		<File
-			RelativePath=".\os.cpp"
+			RelativePath=".\src\os.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\os.h"
+			RelativePath=".\src\os.h"
 			>
 		</File>
 		<File
@@ -3039,6 +3035,10 @@
 			>
 		</File>
 		<File
+			RelativePath=".\example\Quake3Map.cpp"
+			>
+		</File>
+		<File
 			RelativePath=".\include\quaternion.h"
 			>
 		</File>
@@ -3095,15 +3095,15 @@
 			>
 		</File>
 		<File
+			RelativePath=".\src\resource.h"
+			>
+		</File>
+		<File
 			RelativePath=".\libpng\resource.h"
 			>
 		</File>
 		<File
-			RelativePath=".\resource.h"
-			>
-		</File>
-		<File
-			RelativePath=".\S2DVertex.h"
+			RelativePath=".\src\S2DVertex.h"
 			>
 		</File>
 		<File
@@ -3111,7 +3111,7 @@
 			>
 		</File>
 		<File
-			RelativePath=".\S4DVertex.h"
+			RelativePath=".\src\S4DVertex.h"
 			>
 		</File>
 		<File
@@ -3124,10 +3124,6 @@
 		</File>
 		<File
 			RelativePath=".\include\SColor.h"
-			>
-		</File>
-		<File
-			RelativePath=".\SConstruct"
 			>
 		</File>
 		<File
@@ -3187,15 +3183,11 @@
 			>
 		</File>
 		<File
-			RelativePath=".\SoftwareDriver2_compile_config.h"
+			RelativePath=".\src\SoftwareDriver2_compile_config.h"
 			>
 		</File>
 		<File
-			RelativePath=".\SoftwareDriver2_helper.h"
-			>
-		</File>
-		<File
-			RelativePath=".\source.txt"
+			RelativePath=".\src\SoftwareDriver2_helper.h"
 			>
 		</File>
 		<File
@@ -3263,7 +3255,7 @@
 			>
 		</File>
 		<File
-			RelativePath=".\wglext.h"
+			RelativePath=".\src\wglext.h"
 			>
 		</File>
 		<File
