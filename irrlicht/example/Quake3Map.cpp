@@ -3,7 +3,7 @@
 
 
 
-#define __quake_3_map__
+
 #ifdef __quake_3_map__
 
 #include <irrlicht.h>
