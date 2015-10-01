@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "irrlicht", "irrlicht\irrlicht.vcproj", "{4CAB7996-82FE-4475-AE28-BDA7C5D33354}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "stdTest", "stdTest\stdTest.vcproj", "{1935D728-322C-4EEF-A306-33E737C67CDC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -13,6 +15,10 @@ Global
 		{4CAB7996-82FE-4475-AE28-BDA7C5D33354}.Debug|Win32.Build.0 = Debug|Win32
 		{4CAB7996-82FE-4475-AE28-BDA7C5D33354}.Release|Win32.ActiveCfg = Release|Win32
 		{4CAB7996-82FE-4475-AE28-BDA7C5D33354}.Release|Win32.Build.0 = Release|Win32
+		{1935D728-322C-4EEF-A306-33E737C67CDC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1935D728-322C-4EEF-A306-33E737C67CDC}.Debug|Win32.Build.0 = Debug|Win32
+		{1935D728-322C-4EEF-A306-33E737C67CDC}.Release|Win32.ActiveCfg = Release|Win32
+		{1935D728-322C-4EEF-A306-33E737C67CDC}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
