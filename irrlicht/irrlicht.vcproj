@@ -1951,6 +1951,10 @@
 			>
 		</File>
 		<File
+			RelativePath=".\example\E3_CustomSceneNode.cpp"
+			>
+		</File>
+		<File
 			RelativePath=".\include\EAttributes.h"
 			>
 		</File>

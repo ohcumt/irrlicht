@@ -5,6 +5,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "irrlicht", "irrlicht\irrlic
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "stdTest", "stdTest\stdTest.vcproj", "{1935D728-322C-4EEF-A306-33E737C67CDC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Direct3D", "Direct3D\Direct3D.vcproj", "{B7C9D2E3-4612-4687-88C0-7FDC5E3A8296}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -19,6 +21,10 @@ Global
 		{1935D728-322C-4EEF-A306-33E737C67CDC}.Debug|Win32.Build.0 = Debug|Win32
 		{1935D728-322C-4EEF-A306-33E737C67CDC}.Release|Win32.ActiveCfg = Release|Win32
 		{1935D728-322C-4EEF-A306-33E737C67CDC}.Release|Win32.Build.0 = Release|Win32
+		{B7C9D2E3-4612-4687-88C0-7FDC5E3A8296}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B7C9D2E3-4612-4687-88C0-7FDC5E3A8296}.Debug|Win32.Build.0 = Debug|Win32
+		{B7C9D2E3-4612-4687-88C0-7FDC5E3A8296}.Release|Win32.ActiveCfg = Release|Win32
+		{B7C9D2E3-4612-4687-88C0-7FDC5E3A8296}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
