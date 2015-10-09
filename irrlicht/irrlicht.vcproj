@@ -41,7 +41,7 @@
 			<Tool
 				Name="VCCLCompilerTool"
 				Optimization="0"
-				AdditionalIncludeDirectories="F:\program\irrlicht\irrlicht\include;F:\program\irrlicht\irrlicht"
+				AdditionalIncludeDirectories="F:\program\irrlicht\irrlicht\irrlicht\include;F:\program\irrlicht\irrlicht\irrlicht"
 				PreprocessorDefinitions="WIN32;_DEBUG;_CONSOLE"
 				MinimalRebuild="true"
 				BasicRuntimeChecks="3"
@@ -1955,6 +1955,10 @@
 			>
 		</File>
 		<File
+			RelativePath=".\example\E4_Movement.cpp"
+			>
+		</File>
+		<File
 			RelativePath=".\include\EAttributes.h"
 			>
 		</File>
@@ -3099,11 +3103,11 @@
 			>
 		</File>
 		<File
-			RelativePath=".\libpng\resource.h"
+			RelativePath=".\src\resource.h"
 			>
 		</File>
 		<File
-			RelativePath=".\src\resource.h"
+			RelativePath=".\libpng\resource.h"
 			>
 		</File>
 		<File

@@ -1,4 +1,6 @@
 
+
+#define __TEST_E3__
 #ifndef __TEST_E3__
 
 #include <iostream>
