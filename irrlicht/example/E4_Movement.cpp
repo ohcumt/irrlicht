@@ -1,6 +1,6 @@
 
 
-//#define __test_movement__
+#define __test_movement__
 #ifndef __test_movement__
 
 #include <irrlicht.h>
